@@ -72,7 +72,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Game Development](#game-development)
    * [Other Free Resources](#other-free-resources)
 
-## Major Cloud Providers
+## Magor Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
     * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
